@@ -18,9 +18,7 @@ TripEasy is a mobile application developed using React Native that helps users c
 ## Output
 
 ![Screenshot (203)](https://github.com/user-attachments/assets/0aaa3157-8790-407b-bd4e-d20a004f896b)
-
 ![Screenshot (204)](https://github.com/user-attachments/assets/a2125660-519c-4ddf-a80b-34a55d3c3ad6)
-
 ![Screenshot (205)](https://github.com/user-attachments/assets/2d4fd5ab-7e95-4ef3-8bbc-4d6cce20444c)
 ![Screenshot (212)](https://github.com/user-attachments/assets/75a1da6a-f6cb-4a42-9217-2e7e40fa26a2)
 ![Screenshot (211)](https://github.com/user-attachments/assets/81a49020-e7d4-4235-8540-57a57c64fafb)
